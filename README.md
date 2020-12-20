@@ -1,6 +1,6 @@
 ### Hello, I am Alex! 👋
 
-- 🔭 I’m currently working on Software Development
+- 🔭 I’m currently working on Asteroids Recreation with Python
 - 🌱 I’m currently learning HTML/CSS
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Games & Music
