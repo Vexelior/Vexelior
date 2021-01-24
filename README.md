@@ -1,7 +1,7 @@
 ### Hello, I am Alex! 👋
 
 - 🔭 I’m currently working on Software Development Boot Camp.
-- 🌱 I’m currently learning HTML5/CSS3.
+- 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with Machine Language.
 - 💬 Ask me about Games & Music.
 - 📫 How to reach me: asanderson1994s@gmail.com
