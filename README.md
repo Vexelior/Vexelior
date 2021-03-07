@@ -1,7 +1,7 @@
 ### Hello, I am Alex! 👋
 
 - 🔭 I’m currently in Software Development Boot Camp @ The Tech Academy.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with Machine Language.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
