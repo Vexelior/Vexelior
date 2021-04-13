@@ -1,8 +1,8 @@
 ### Hello, I am Alex! 👋
 
 - 🔭 I’m currently in Software Development Boot Camp @ The Tech Academy.
-- 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with Machine Language.
+- 🌱 I’m currently learning C#.
+- 🤔 I’m looking for help with AI.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
 - 😄 Pronouns: He/Him
