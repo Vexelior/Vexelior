@@ -1,6 +1,6 @@
 ### Hello, I am Alex! 👋
 
-- 🔭 I’m currently in Software Development Boot Camp @ The Tech Academy.
+- 🔭 The Tech Academy Software Development Boot Camp Graduate.
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
