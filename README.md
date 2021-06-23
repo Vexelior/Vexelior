@@ -1,7 +1,7 @@
 ### Hello, I am Alex! 👋
 
 - 🔭 The Tech Academy Software Development Boot Camp Graduate.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning web development.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
 - 😄 Pronouns: He/Him
