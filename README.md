@@ -2,7 +2,7 @@
 
 - 👨‍🏫 Instructor at The Tech Academy.
 - 🔭 Software Development Boot Camp Graduate.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning C++.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
 - 😄 Pronouns: He/Him
