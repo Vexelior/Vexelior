@@ -1,8 +1,8 @@
 ### Hello, I am Alex! 👋
 
-- 👨‍🏫 Instructor at The Tech Academy.
+- 👨‍🏫 Dean at The Tech Academy.
 - 🔭 Software Development Boot Camp Graduate.
-- 🌱 I’m currently learning C#, C++, Java & Cyber Security.
+- 🌱 I’m currently learning Python, R, SQL & Data Science.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
 - 😄 Pronouns: He/Him
