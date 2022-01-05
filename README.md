@@ -2,7 +2,7 @@
 
 - 👨‍🏫 Dean at The Tech Academy.
 - 🔭 Software Development Boot Camp Graduate.
-- 🌱 I’m currently learning Python, R, SQL & Data Science.
+- 🌱 I’m currently learning Python, C#, SQL & .NET Framework.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
 - 😄 Pronouns: He/Him
