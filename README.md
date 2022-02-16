@@ -1,6 +1,6 @@
 ### Hello, I am Alex! 👋
 
-- 👨‍🏫 Dean at The Tech Academy.
+- 👨‍🏫 Chief Technology Officer at The Tech Academy.
 - 🔭 Software Development Boot Camp Graduate.
 - 🌱 I’m currently learning C#, SQL, Entity Framework & .NET Framework.
 - 💬 Ask me about Games, Music, Coding.
