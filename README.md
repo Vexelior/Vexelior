@@ -1,7 +1,7 @@
 ### Hello, I am Alex! 👋
 
-- 👨‍🏫 Chief Technology Officer at The Tech Academy.
-- 🔭 Software Development & Cyber Security Boot Camp Graduate.
+- 👨‍🏫 Chief Technology Officer/Instructor at The Tech Academy.
+- 🔭 Full-Stack Software Development & Cyber Security Boot Camp Graduate.
 - 🌱 Computer Science student at Clark College.
 - 💬 Ask me about Games, Music, Coding.
 - 📫 How to reach me: asanderson1994s@gmail.com
